@@ -1,5 +1,5 @@
 # Navigation-Drawer
-An android App showing a Splash Screen for a few seconds and then moving to the next screen containing navigation menubar
+<h4> An android App showing a Splash Screen for a few seconds and then moving to the next screen containing navigation menubar. </h4>
 
 Screenshot:
 
